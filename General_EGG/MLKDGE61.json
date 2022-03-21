@@ -1,0 +1,13 @@
+{
+	"collection": "Moonlight Kingdom NFTs - General EGG",
+	"id": 61,
+	"image": "https://ipfs.io/ipfs/QmNYw5NwWXqHhrdGMb3uH7K3BQKTqHkTa3J48ZCaPtQrUj/61.png",
+	"name": "General EGG #61",
+	"description": "Moonlight Kingdom is the Decentralized NFT Play-to-Earn game with integration of Hold-to-Earn into the united systems. Each unique NFT is animated and powered by 3D System, and contains stats values which are essential to game play. The rarer the NFT, the more value it contains. Also NFTs can be listed and traded in the Moon Market.",
+	"attributes": [
+		{
+			"trait_type": "Rarity",
+			"value": "1",
+		}
+	],
+}
